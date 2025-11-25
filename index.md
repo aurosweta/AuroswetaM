@@ -9,8 +9,6 @@ header:
   height: 100vh
 ---
 
-<section class="home-intro" style="padding: 3rem 1rem; text-align: center;">
-
 ## Your Name
 ### Graduate Student, UCLA · Research in Speech, AI, ML
 
@@ -19,8 +17,6 @@ Welcome to my homepage! I work on speech processing, deepfake detection, anti-sp
 [CV](/assets/files/cv.pdf){: .btn .btn--primary}
 [Publications](/publications/){: .btn}
 [Email Me](mailto:yourname@domain.com){: .btn}
-
-</section>
 
 ---
 
